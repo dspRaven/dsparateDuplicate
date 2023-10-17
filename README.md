@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dsparateDuplicate
+- 👋 Hi, I’m @dspRaven
 - 👀 I’m interested in DSP (Digital Signal Processing)
 - 🌱 I’m always learning DSP, Python, C++, Matlab
 <!--- - 💞️ I’m looking to collaborate on Python code
